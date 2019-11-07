@@ -6,22 +6,20 @@ Backend server (API) for shop website.
 
 ## Technologies
 
-Used stack MEAN:
+Used technologies:
 
-- *M - MongoDB*
-- *E - ExpressJS*
-- *A - Angular*
-- *N - NodeJS*
+- *NodeJS*
+- *ExpressJS*
+- *MongoDB*
 
 ## Deployment
 
-Deployed at *Heroku*: [https://mean-shop-example-api.herokuapp.com](https://mean-shop-example-api.herokuapp.com)
+Deployed at *Heroku*: [https://shop-example-api.herokuapp.com](https://shop-example-api.herokuapp.com)
 
 ## Links
 
-- [Frontend server GitHub repository](https://github.com/XDragonSl/shop-example)
-- [Backend server GitHub repository](https://github.com/XDragonSl/shop-example-api)
-- [Shop example (at Heroku)](https://mean-shop-example.herokuapp.com)
+- [Frontend (Angular) server GitHub repository](https://github.com/XDragonSl/angular-shop-example)
+- [Frontend (React) server GitHub repository](https://github.com/XDragonSl/react-shop-example)
 
 ## Contacts
 
